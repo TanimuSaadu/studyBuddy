@@ -1,0 +1,2 @@
+# studyBuddy
+Hello everyone!!! 
