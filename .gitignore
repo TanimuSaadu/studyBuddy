@@ -1,5 +1,5 @@
 # Django #
-studyBuddy/products/
+/products
 venv/
 *.log
 *.pot
